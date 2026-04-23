@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> دعني أذوب في هذا العناق
+> نار الهوى تزيد الاشتياق
+> المسني في عتمة الليل
+> حبك سحر وليل طويل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
