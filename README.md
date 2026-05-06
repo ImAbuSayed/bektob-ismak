@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 23, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/bektob-ismak/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get License For Bektob Ismak](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
