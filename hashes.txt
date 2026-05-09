@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bektob Ismak
+
+This log tracks the cryptographic history and versioning for the song **Bektob Ismak** (bektob-ismak).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T13:00:00.810597 | `v1` | `3a680db4cb7f79dc46ad63a7362e2aaf16c2f24f443c9069f3105f777b5abdb4` | `b834350555811e9396b12ec94cfb8b623b3b7ab49bc5f8499d0d8ec7041b3261` | `2026-05-09_bektob-ismak-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
